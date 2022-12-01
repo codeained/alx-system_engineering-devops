@@ -1,1 +1,1 @@
-absolute path name of current working directory
+print working directory
