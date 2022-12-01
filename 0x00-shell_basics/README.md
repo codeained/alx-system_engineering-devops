@@ -1,1 +1,1 @@
-print working directory
+change directory to home
