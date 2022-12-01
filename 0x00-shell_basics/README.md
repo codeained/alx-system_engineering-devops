@@ -1,1 +1,1 @@
-list files
+display all flies
