@@ -1,1 +1,1 @@
-Task 0. shell basics where am I
+Betty in my first directory
