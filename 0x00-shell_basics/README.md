@@ -1,1 +1,1 @@
-accessing file
+symbolic link
