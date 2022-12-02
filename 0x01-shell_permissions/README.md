@@ -1,1 +1,1 @@
-execute and write permission
+file permission multiple users
