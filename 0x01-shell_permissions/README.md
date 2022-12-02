@@ -1,1 +1,1 @@
-det user
+view groups
