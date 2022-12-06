@@ -4,3 +4,4 @@ display two files
 view last lines
 display first ten lines
 Display third line
+print to file
