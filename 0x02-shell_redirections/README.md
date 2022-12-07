@@ -1,7 +1,1 @@
-display confused smiley
-diplay content of file 
-display two files
-view last lines
-display first ten lines
-Display third line
-print to file
+printing to file
