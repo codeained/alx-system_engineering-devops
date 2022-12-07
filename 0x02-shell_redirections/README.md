@@ -1,1 +1,2 @@
 printing to file
+duplicate
